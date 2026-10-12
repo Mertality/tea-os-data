@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-10-12",
+  "schemaVersion": 2,
+  "files": [
+    { "id": "oolongs", "path": "oolongs.json", "name": "Улуны", "count": 5 },
+    { "id": "red_teas", "path": "red_teas.json", "name": "Красные чаи", "count": 3 },
+    { "id": "green_teas", "path": "green_teas.json", "name": "Зелёные чаи", "count": 1 },
+    { "id": "gaba", "path": "gaba.json", "name": "ГАБА улуны", "count": 2 },
+    { "id": "puers", "path": "puers.json", "name": "Пуэры", "count": 1 }
+  ],
+  "totalCount": 12
+}
