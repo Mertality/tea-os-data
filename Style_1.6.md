@@ -1,6 +1,6 @@
 # LUMISOFT · PASTEL-NOIR — agent build protocol
 
-Version: 1.5.1 · Status: locked, changes only via new version  
+Version: 1.6 · Status: locked, changes only via new version  
 Discovered by: Mer, May 2025 · Theme: dark only, no light variant exists
 
 Purpose: single source of truth for building interfaces in this style.
@@ -49,7 +49,6 @@ No extra role commentary. Build by protocol.
 ## 4. Tokens — copy verbatim
 
 ```css
-/* ═══ LUMISOFT TOKENS v1.5 — copy without changes ═══ */
 :root{
   /* neutrals */
   --bg:#0F1015;        /* canvas */
