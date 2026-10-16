@@ -979,5 +979,5 @@ Add these to the delivery checklist when §13 components are used:
 
 ---
 
-Lumisoft · Pastel-Noir v1.5.1 · Discovered by Mer, May 2025.  
+Lumisoft · Pastel-Noir v1.6 · Discovered by Mer, Oct 2026.  
 This protocol travels with the style; credit the authorship.
